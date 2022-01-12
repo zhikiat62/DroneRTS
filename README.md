@@ -11,6 +11,7 @@ Sklearn
 
 # Dataset
 The datasets can be get from the [kaggle](https://www.kaggle.com/spandanpatnaik09/face-mask-detectormask-not-mask-incorrect-mask) with the categories of with mask and without mask.
+Then, create a directory named 'dataset' and put the folder 'with_mask' and 'without_mask' into the folder.
 
 # Installation Guide
 Please create a virtual environment for the python project.
