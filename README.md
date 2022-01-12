@@ -2,10 +2,12 @@
 This is a Face Mask Detection Project using the drone. 
 
 # System Requirement
+```
 Python version : 3.6.8
 Keras
 Tensorflow
 Sklearn
+```
 
 # Dataset
 The datasets can be get from the [kaggle](https://www.kaggle.com/spandanpatnaik09/face-mask-detectormask-not-mask-incorrect-mask) with the categories of with mask and without mask.
